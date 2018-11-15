@@ -1,0 +1,18 @@
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\bin\Debug\KuraCekimi.exe
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\bin\Debug\KuraCekimi.pdb
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.Form1.resources
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.Properties.Resources.resources
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.exe
+c:\documents and settings\uakinci\my documents\visual studio 2010\Projects\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.pdb
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\bin\Debug\KuraCekimi.exe
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\bin\Debug\KuraCekimi.pdb
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.csprojAssemblyReference.cache
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.Form1.resources
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.Properties.Resources.resources
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.csproj.GenerateResource.cache
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.csproj.CoreCompileInputs.cache
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.exe
+C:\Users\uakinci\Desktop\KuraCekimi\KuraCekimi\obj\x86\Debug\KuraCekimi.pdb
